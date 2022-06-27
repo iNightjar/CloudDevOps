@@ -1,4 +1,4 @@
-## [Udacity AWS Cloud DevOps NanoDegree](https://egfwd.com/specializtion/aws-cloud-devops/)
+# [Udacity AWS Cloud DevOps NanoDegree](https://egfwd.com/specializtion/aws-cloud-devops/)
 <div>
 
 ## Technical Training
