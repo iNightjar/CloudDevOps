@@ -1,4 +1,4 @@
-## Porject 1 Depoloying Static Website on AWS
+## {Porject 1 Depoloying Static Website on AWS](https://github.com/iNightjar/Udacity-CloudDevOps/tree/master/staticWebSite/SubmittedProject)
 <div align="center" width="50">
 <img src="https://github.com/iNightjar/Udacity-CloudDevOps/blob/master/staticWebSite/s3.jpeg?raw=true"  href="https://github.com/iNightjar" alt="s3">
 </div>
