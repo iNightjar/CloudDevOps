@@ -1,4 +1,4 @@
-# [Submitted Porject](https://iNightjar.github.io/Udacity-CloudDevOps/staticWebSite/)
+# [Submitted Project](https://iNightjar.github.io/Udacity-CloudDevOps/staticWebSite/)
 
 ### ScreenShots
 - [S3 Bucket](https://github.com/iNightjar/Udacity-CloudDevOps/tree/master/staticWebSite/SubmittedProject/ScreenShots/s3Bucket.png?raw=true)
