@@ -1,9 +1,9 @@
 ## Porject 1 Depoloying Static Website on AWS
 <div align="center" width="50">
-<img src=""  href="https://github.com/iNightjar" alt="s3">
+<img src="https://github.com/iNightjar/Udacity-CloudDevOps/blob/master/staticWebSite/s3.jpeg?raw=true"  href="https://github.com/iNightjar" alt="s3">
 </div>
 
-### n this project, you will deploy a static website to AWS by performing the following steps:
+### In this project, you will deploy a static website to AWS by performing the following steps:
 
     1-You will create a public S3 bucket and upload the website files to your bucket.
     2-You will configure the bucket for website hosting and secure it using IAM policies.
