@@ -3,7 +3,7 @@
 
 ## Technical Training
 
-### [Cloud Fundamentals](https://github.com/iNightjar/Udacity-CloudDevOps/tree/master/staticWebSite) | [Deploying First Porject (Static Website on AWS)](https://iNightjar.github.io/Udacity-CloudDevOps/staticWebSite/)
+### [Cloud Fundamentals](https://github.com/iNightjar/Udacity-CloudDevOps/tree/master/staticWebSite) | [Deploying First Porject (Static Website on AWS)](https://iNightjar.github.io/CloudDevOps/staticWebSite/)
 
 
 - In this part, you will learn the fundamentals of cloud computing while being introduced to compute power, security, storage, networking, messaging, and management services in the cloud.
